@@ -21,6 +21,6 @@ These heatmaps provide insights into whether the model focuses on the relevant l
 ## Results Table
 
 | Dataset | Dice (%) | IoU (%) |
-|--------|--------|--------|--------|
+|--------|--------|--------|
 | BUSI | **79.20** | **71.08** |
 | BUS-BRA | **89.13** | **81.62** |
