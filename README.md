@@ -1,6 +1,6 @@
-**AGU-Net: An Attention and Gating-aided U-Net Model for Breast Ultrasound Lesion Segmentation**
+## **AGU-Net: An Attention and Gating-aided U-Net Model for Breast Ultrasound Lesion Segmentation**
 
-**Model Architecture**
+## **Model Architecture**
 <img width="1280" height="720" alt="Sayan_Segmentation_Arch" src="https://github.com/user-attachments/assets/52c03caf-2c25-475e-be4a-b1afd9806aac" />
 
 ## Error Analysis Visualization
